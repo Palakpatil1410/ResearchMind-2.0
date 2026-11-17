@@ -7,3 +7,9 @@ debug_*.json
 check_*.py
 *.bak
 .env.tmp
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.streamlit/secrets.toml
